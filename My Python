@@ -1,0 +1,7 @@
+Romana_money = 700
+Samjeda_money = 300
+if Romana_money > Samjeda_money:
+  print("Romana is my wife")
+else:
+  print("Samjeda is my sister")
+
